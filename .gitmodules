@@ -1,0 +1,3 @@
+[submodule "rd_lessons"]
+	path = rd_lessons
+	url = git@github.com:arthur-yatsun/rd_lessons.git
